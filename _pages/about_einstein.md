@@ -1,5 +1,10 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Fellow in the [Holmes Lab](https://holmeslab.rutgers.edu/) at the [Center for Advanced Human Brain Imaging Research](https://sites.rutgers.edu/cahbir/), Rutgers University, Piscataway, NJ, US.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to this, I was a Postdoctoral Associate also at the Holmes Lab in the Department of Psychology at Yale University.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned my BSc in Cognitive Neuroscience in 2014 from University of Bordeaux, and my Ph.D. in Neuroimaging from University of Bordeaux in 2020 in the [GIN](https://www.gin.cnrs.fr/en/) Lab under the main supervision of [Nathalie Tzourio-Mazoyer](https://www.gin.cnrs.fr/en/about-us/history/nathalie-tzourio-mazoyer-md-phd/).
+
+
+My primary interest lies in exploring the mechanisms underlying hemispheric complementarity, particularly how these mechanisms are established, vary among individuals, and influence brain-behavior relationships. Additionally, I am curious about whether these differences contribute to the distinct manifestations of psychiatric illnesses.
+
+You can find my most recent work [here](https://scholar.google.fr/citations?user=oaBiK0kAAAAJ&hl=fr&oi=ao). 
