@@ -169,10 +169,6 @@ collections:
       layout: post
     output: false
     permalink: /news/:path/
-  projects:
-    enabled: false
-    output: false
-    permalink: /projects/:path/
 
 announcements:
   enabled: false
