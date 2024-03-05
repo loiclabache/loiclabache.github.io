@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - loiclabache
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - loiclabache/ALANs_brainAtlas
+  - loiclabache/RogerLabache_2023_LanguAging
+  - loiclabache/Labache_2022_AO
+  - loiclabache/HAMOTA_brainAtlas
+  - loiclabache/WMCA_brainAtlas
+  - loiclabache/SENSAAS_brainAtlas
