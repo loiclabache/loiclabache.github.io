@@ -282,7 +282,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Labache]
-  first_name: [Loïc]
+  first_name: [Lo{\"\i}c]
 
   style: apa
   locale: en
