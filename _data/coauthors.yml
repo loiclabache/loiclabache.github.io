@@ -1,34 +1,31 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"joliot":
+  - firstname: ["Marc"]
+    url: https://scholar.google.fr/citations?user=MRcC4KcAAAAJ&hl=en&oi=ao
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"baciu":
+  - firstname: ["Monica"]
+    url: https://scholar.google.fr/citations?user=yqFUCA4AAAAJ&hl=en&oi=ao
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"holmes":
+  - firstname: ["Avram J"]
+    url: https://scholar.google.fr/citations?user=EhyhJkwAAAAJ&hl=en&oi=ao
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"zago":
+  - firstname: ["Laure"]
+    url: https://scholar.google.fr/citations?user=SLW9-UwAAAAJ&hl=en&oi=ao
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"doucet":
+  - firstname: ["Gaelle E"]
+    url: https://scholar.google.fr/citations?user=UZMShCsAAAAJ&hl=en&oi=ao
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"tzourio-mazoyer":
+  - firstname: ["Nathalie"]
+    url: https://scholar.google.fr/citations?user=NBszKugAAAAJ&hl=en
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"roger":
+  - firstname: ["Elise"]
+    url: https://scholar.google.fr/citations?user=DhqM0LkAAAAJ&hl=en&oi=ao
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"chopra":
+  - firstname: ["Sidhant"]
+    url: https://scholar.google.fr/citations?user=rGJ8oLwAAAAJ&hl=en&oi=ao
