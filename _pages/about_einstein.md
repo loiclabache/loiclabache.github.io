@@ -6,4 +6,4 @@ I earned my BSc in Cognitive Neuroscience in 2014 from the University of Bordeau
 
 My primary interest lies in exploring the mechanisms underlying hemispheric complementarity, particularly how these mechanisms are established, vary among individuals, and influence brain-behavior relationships. Additionally, I am curious about whether these differences contribute to the distinct manifestations of psychiatric illnesses.
 
-You can find my most recent work [here](https://scholar.google.fr/citations?user=oaBiK0kAAAAJ&hl=fr&oi=ao). 
+You can find my most recent work [here](https://scholar.google.fr/citations?user=oaBiK0kAAAAJ&hl=fr&oi=ao).
