@@ -2,6 +2,9 @@ github_users:
   - loiclabache
 
 github_repos:
+  - loiclabache/LUCA_brainAtlas
+  - loiclabache/Labache_2025_IndLat
+  - loiclabache/Labache_2025_MolCelLat
   - loiclabache/Labache_2025_MolCelLat
   - loiclabache/ALANs_brainAtlas
   - loiclabache/RogerLabache_2023_LanguAging
