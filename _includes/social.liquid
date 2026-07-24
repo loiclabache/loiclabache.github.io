@@ -34,6 +34,31 @@
 {% if site.github_username %}
   <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
 {% endif %}
+{% if site.github_username %}
+  <a href="https://github.com/{{ site.github_username }}" title="GitHub">
+    <i class="fa-brands fa-github"></i>
+  </a>
+{% endif %}
+
+{% if site.bluesky_url %}
+  <a
+    href="{{ site.bluesky_url }}"
+    title="Bluesky"
+    aria-label="Bluesky"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <svg class="bluesky-icon" viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364-4.63.686-8.744 2.372-3.348 8.383 5.934 6.15 8.134-1.319 8.341-3.02.207 1.701 2.407 9.17 8.341 3.02 5.396-6.011 1.282-7.697-3.348-8.383 2.67.296 5.568-.628 6.383-3.364.246-.829.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/>
+    </svg>
+  </a>
+{% endif %}
+
+{% if site.linkedin_username %}
+  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+{% endif %}
 {% if site.linkedin_username %}
   <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
 {% endif %}
