@@ -381,6 +381,19 @@ ul.task-list input[type="checkbox"] {
 .social {
   text-align: center;
 
+  .bluesky-icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  fill: currentColor;
+  color: var(--global-text-color);
+  transition: color 0.2s ease-in-out;
+  }
+
+  a:hover .bluesky-icon {
+    color: var(--global-theme-color);
+  }
+  
   .contact-icons {
     font-size: 4rem;
 
