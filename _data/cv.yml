@@ -9,8 +9,8 @@
       value: French, English
     - name: Email(s)
       value: loic [dot] labache [at] rutgers.edu
-    - name: 
-      value: You can download my full and latest CV <a href='https://loiclabache.github.io/assets/pdf/CV_LoicLabache_260126.pdf'>here</a>.
+    - name: ""
+      value: You can download my full and latest CV <a href="https://loiclabache.github.io/assets/pdf/CV_LoicLabache_260126.pdf">here</a>.
 
 - title: Education
   type: time_table
@@ -30,43 +30,47 @@
   contents:
     - title: Postdoctoral Associate
       institution: Department of Psychiatry, Rutgers University, NJ, US
-      year: 2023- 
-      
+      year: "2023-"
+
     - title: Research Collaborators
       institution: Department of Psychology, Yale University, NJ, US
-      year: 2023-2025
-      
+      year: "2023-2025"
+
     - title: Postdoctoral Associate
       institution: Department of Psychology, Yale University, CT, US
-      year: 2021-2023
+      year: "2021-2023"
 
     - title: Postdoctoral Associate
       institution: Department of Epidemiology, University of Bordeaux, FR
-      year: 2020-2021
+      year: "2020-2021"
 
 - title: Funding
   type: time_table
   contents:
-    - year: 2025-2026
-        items:
-          - Postdoctoral Health AI Research Fellows, Rutgers Health Center for Biomedical Informatics & Health Artificial Intelligence, Rutgers University – New Brunswick, NJ, US
-    - year: 2017-2020
-        items:
-          - CEA Graduate Research Fellowship, French Alternative Energies and Atomic Energy Commission – Paris, FR
-      
+    - year: "2025-2026"
+      items:
+        - Postdoctoral Health AI Research Fellows, Rutgers Health Center for Biomedical Informatics & Health Artificial Intelligence, Rutgers University – New Brunswick, NJ, US
+
+    - year: "2017-2020"
+      items:
+        - CEA Graduate Research Fellowship, French Alternative Energies and Atomic Energy Commission – Paris, FR
+
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2026
-        items:
-          - Rutgers Brain Health Institute Trainee Travel Award, Brain Health Institute, Rutgers University – Piscataway, NJ, US
+      items:
+        - Rutgers Brain Health Institute Trainee Travel Award, Brain Health Institute, Rutgers University – Piscataway, NJ, US
+
     - year: 2024
       items:
         - Aperture Neuro 2023 Best Paper Award - Organization for Human Brain Mapping – Seoul, KR
+
     - year: 2023
       items:
         - Runner-Up Trainee Prize, The Neuro - Irv and Helga Cooper Foundation Open Science Prizes – Montreal, CA
         - Merit Award Abstract Winner, Organization for Human Brain Mapping – Montreal, CA
+
     - year: 2022
       items:
         - Merit Award Abstract Winner, Organization for Human Brain Mapping – Glasgow, Scotland, GB
