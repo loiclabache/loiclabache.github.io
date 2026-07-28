@@ -29,4 +29,4 @@ My research explores how the two halves of the brain specialize and cooperate to
 
 More specifically, I investigate hemispheric specialization as a core principle of human brain organization, focusing on how hemispheric complementarity emerges across development, varies between individuals, and shapes cognition and behavior. I combine multimodal neuroimaging, large-scale population datasets, and computational modeling to link brain lateralization to cognitive variability and neurodevelopmental and psychiatric disorders.
 
-You can find my most recent work [here](https://scholar.google.com/citations?user=ABBntecAAAAJ). 
+You can find my most recent publications and citation metrics on my [Google Scholar profile](https://scholar.google.com/citations?user=ABBntecAAAAJ). 
